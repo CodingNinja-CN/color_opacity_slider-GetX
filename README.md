@@ -1,16 +1,4 @@
-# color_opacity_slider
+This Color Opacity Slider was created using GetX as part of my Flutter learning journey. I followed [Asif Taj's Flutter Bootcamp on YouTube](https://youtu.be/mzqDobamYbY?si=GFymGKsZrQJeBCwD) to build a solid foundation in Flutter, and this was one of the practical tasks from that series.
 
-A new Flutter project.
+<video src="https://github.com/user-attachments/assets/a1972124-36a0-4fa9-bcb9-64f5149692e0" width="300" controls></video>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
